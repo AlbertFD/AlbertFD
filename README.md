@@ -1,3 +1,6 @@
+
+# Albert Forsyth
+
 Experimental physicist (PhD, Imperial College London) with CERN
 experience in precision laser spectroscopy and atomic physics.
 Co-running a two-person antimatter experiment at ASACUSA —
@@ -15,9 +18,6 @@ precision measurement.
 London / Geneva
 
 ---
-
-### Currently working on
-Laser Spectroscopy ASACUSA's antiprotonic helium experiment
 
 ### Currently learning
 FPGA development on Red Pitaya · KiCad PCB design ·
