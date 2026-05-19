@@ -24,8 +24,11 @@ FPGA development · PCB design · Arduinos · Machine Learning/AI · Automation
 
 ### Skills
 **Languages** — C++, Python, LaTeX, Bash, SQL, Powershell
+
 **Programming and computing:** — Machine Learning, HPC, GitHub
+
 **Hardware** — CAD Modelling, High Vacuum pumps, Laser optics and design
+
 **IT Skills:** Autodesk, VSCode, Github, Overleaf, Anaconda, Excel, Google Drive, Zoom, Microsoft Office, HTML, Swift,
 XML, Scipy, Macintosh, Windows, Ubuntu, Hyper-V, Putty, SSMS, GitLab, Splunk, Puppet, SentryOne, Opsview, IP Networking,
 Cloud Services
