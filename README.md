@@ -1,16 +1,13 @@
-## Hi there 👋
+Experimental physicist (PhD, Imperial College London) with CERN
+experience in precision laser spectroscopy and atomic physics.
+Co-running a two-person antimatter experiment at ASACUSA —
+laser systems, UHV, cryogenics, electronics, analysis.
 
-<!--
-**AlbertFD/AlbertFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently working on:** Antiprotonic helium spectroscopy.
 
-Here are some ideas to get you started:
+**Interests:** Electronics, Instrument control, low-noise electronics, Data analysis, Simulations,
+precision measurement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:** al.forsy@gmail.com
+**Website:** https://github.com/AlbertFD/AlbertFD/
+**LinkedIn:** https://www.linkedin.com/in/albert-forsyth-305927206
