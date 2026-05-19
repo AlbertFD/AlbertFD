@@ -20,7 +20,7 @@ London / Geneva
 ---
 
 ### Currently learning
-FPGA development · PCB design · Arduinos · Machine Learning/Ai · Automation
+FPGA development · PCB design · Arduinos · Machine Learning/AI · Automation
 
 ### Skills
 **Languages** — C++, Python, LaTeX, Bash, SQL, Powershell
