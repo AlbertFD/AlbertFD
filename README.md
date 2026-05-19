@@ -9,7 +9,7 @@ laser systems, UHV, cryogenics, electronics, analysis.
 **Currently working on:** Antiprotonic helium spectroscopy.
 
 **Interests:** Electronics, Instrument control, low-noise electronics, Data analysis, Simulations,
-precision measurement.
+Precision measurement.
 
 **Contact:** al.forsy@gmail.com
 **Website:** https://github.com/AlbertFD/AlbertFD/
@@ -25,7 +25,7 @@ FPGA development · PCB design · Arduinos · Machine Learning/AI · Automation
 ### Skills
 **Languages** — C++, Python, LaTeX, Bash, SQL, Powershell
 
-**Programming and computing:** — Machine Learning, HPC, GitHub
+**Programming and computing:** — Machine Learning, High Perfromance Computing, Data Acquisition, Data analysis, Simulations, Electronics, Instrument control
 
 **IT Skills:** Autodesk, VSCode, Github, Overleaf, Anaconda, Excel, Google Drive, Zoom, Microsoft Office, HTML, Swift,
 XML, Scipy, Macintosh, Windows, Ubuntu, Hyper-V, Putty, SSMS, GitLab, Splunk, Puppet, SentryOne, Opsview, IP Networking,
