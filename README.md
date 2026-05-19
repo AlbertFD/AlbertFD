@@ -20,8 +20,7 @@ London / Geneva
 ---
 
 ### Currently learning
-FPGA development on Red Pitaya · KiCad PCB design ·
-Bayesian inference for spectroscopy fitting.
+FPGA development · PCB design · Arduinos · Machine Learning/Ai · Automation
 
 ### Skills
 **Languages** — C++, Python, LaTeX, Bash, SQL, Powershell
