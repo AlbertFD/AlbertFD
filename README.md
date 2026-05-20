@@ -34,10 +34,9 @@ Cloud Services
 ### Featured projects
 
 ### Open to
-Discussions about instrumentation, programming, hardware, Data analysis, Simulations roles.
+Discussions about instrumentation, programming, hardware, data analysis, simulations roles.
 
 ---
 
-Affiliations: Imperial College London · CERN ASACUSA
-
+Affiliations: Imperial College London · CERN ASACUSA \
 Languages: English · Spanish · Italian (basic)
