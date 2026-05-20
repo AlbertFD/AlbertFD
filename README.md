@@ -31,10 +31,6 @@ FPGA development · PCB design · Arduinos · Machine Learning/AI · Automation
 XML, Scipy, Macintosh, Windows, Ubuntu, Hyper-V, Putty, SSMS, GitLab, Splunk, Puppet, SentryOne, Opsview, IP Networking,
 Cloud Services
 
-### Publications & reports
-- STATUS REPORT OF ASACUSA AD-3 COLLABORATION 2025
-- STATUS REPORT OF ASACUSA AD-3 COLLABORATION 2024  
-
 ### Featured projects
 
 ### Open to
