@@ -8,8 +8,8 @@ laser systems, UHV, cryogenics, electronics, analysis.
 
 **Currently working on:** Antiprotonic helium spectroscopy.
 
-**Interests:** Electronics, Instrument control, low-noise electronics, Data analysis, Simulations,
-Precision measurement.
+**Interests:** Electronics, instrument control, low-noise electronics, data analysis, simulations,
+precision measurement.
 
 **Contact:** al.forsy@gmail.com\
 **Website:** https://github.com/AlbertFD/AlbertFD/ \
