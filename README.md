@@ -32,8 +32,8 @@ XML, Scipy, Macintosh, Windows, Ubuntu, Hyper-V, Putty, SSMS, GitLab, Splunk, Pu
 Cloud Services
 
 ### Publications & reports
-- STATUS REPORT OF ASACUSA AD-3 COLLABORATION (CERN Official
-  Document, 2024 and 2025)
+- STATUS REPORT OF ASACUSA AD-3 COLLABORATION 2025
+- STATUS REPORT OF ASACUSA AD-3 COLLABORATION 2024  
 
 ### Featured projects
 
