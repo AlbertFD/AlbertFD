@@ -11,8 +11,8 @@ laser systems, UHV, cryogenics, electronics, analysis.
 **Interests:** Electronics, Instrument control, low-noise electronics, Data analysis, Simulations,
 Precision measurement.
 
-**Contact:** al.forsy@gmail.com /r
-**Website:** https://github.com/AlbertFD/AlbertFD/ /r
+**Contact:** al.forsy@gmail.com  /
+**Website:** https://github.com/AlbertFD/AlbertFD/  /
 **LinkedIn:** https://www.linkedin.com/in/albert-forsyth-305927206
 
 London / Geneva
