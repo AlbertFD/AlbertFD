@@ -27,7 +27,7 @@ FPGA development · PCB design · Arduinos · Machine Learning/AI · Automation
 
 **Programming and computing:** — Machine Learning, High Perfromance Computing, Data Acquisition, Data analysis, Simulations, Electronics, Instrument control
 
-**IT know-how:** LabView, Autodesk, VSCode, Github, Overleaf, Anaconda, Excel, Google Drive, Zoom, Microsoft Office, HTML, Swift,
+**IT know-how:** Claude, LabView, Autodesk, VSCode, Github, Overleaf, Anaconda, Excel, Google Drive, Zoom, Microsoft Office, HTML, Swift,
 XML, Scipy, Macintosh, Windows, Ubuntu, Hyper-V, Putty, SSMS, GitLab, Splunk, Puppet, SentryOne, Opsview, IP Networking,
 Cloud Services
 
